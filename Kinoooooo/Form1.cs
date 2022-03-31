@@ -45,7 +45,7 @@ namespace Kinoooooo
                         tlacitko.Height = rozmer;
                         tlacitko.Left = rozmer + pomocna;
                         tlacitko.Top = rozmer;
-                        tlacitko.Click += tlacitko_Click;
+                        tlacitko.Click += tlacitko_Click;                       
                         panel1.Controls.Add(tlacitko);
                         pomocna += 150;
                     }
@@ -68,10 +68,12 @@ namespace Kinoooooo
         }
         private void tlacitko_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Chcete zarezervovat sedadlo č. " + (sender as Button).Text + "?", "Objednávka", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-        }
-
-        
+            DialogResult vysledek = MessageBox.Show("Chcete zarezervovat sedadlo č. " + (sender as Button).Text + "?", "Objednávka", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if(vysledek == DialogResult.Yes)
+            {
+                MessageBox.Show("Sedadlo č. " + (sender as Button).Text + " bylo zarezervováno", "Objednávka", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }       
     }
 }
 
