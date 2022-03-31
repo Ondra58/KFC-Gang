@@ -1,0 +1,10 @@
+D:\Moje složka\Škola\Prográmky\Prográmky\Kinoooooo\bin\Debug\Kinoooooo.exe.config
+D:\Moje složka\Škola\Prográmky\Prográmky\Kinoooooo\bin\Debug\Kinoooooo.exe
+D:\Moje složka\Škola\Prográmky\Prográmky\Kinoooooo\bin\Debug\Kinoooooo.pdb
+D:\Moje složka\Škola\Prográmky\Prográmky\Kinoooooo\obj\Debug\Kinoooooo.csprojAssemblyReference.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\Kinoooooo\obj\Debug\Kinoooooo.Form1.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\Kinoooooo\obj\Debug\Kinoooooo.Properties.Resources.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\Kinoooooo\obj\Debug\Kinoooooo.csproj.GenerateResource.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\Kinoooooo\obj\Debug\Kinoooooo.csproj.CoreCompileInputs.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\Kinoooooo\obj\Debug\Kinoooooo.exe
+D:\Moje složka\Škola\Prográmky\Prográmky\Kinoooooo\obj\Debug\Kinoooooo.pdb
